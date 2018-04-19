@@ -41,3 +41,4 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 [1] **Dahirel M.**, Ansart A, Madec L. (2014). <a href="https://doi.org/10.1007/s10144-013-0407-0">Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*. *Population Ecology* 56 (1): 227-237
 
+</div>

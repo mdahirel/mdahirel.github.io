@@ -4,7 +4,7 @@ title: Maxime Dahirel, researcher in ecology and evolution
 ---
 
 # Dr Maxime Dahirel
-![contact image](/images/contact3.jpg)
+<img src="/images/contact3.jpg" width="200"/>
 Université de Rennes 1\
 UMR 6553 Ecobio\
 263 avenue du Général Leclerc\

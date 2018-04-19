@@ -17,17 +17,17 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 <div style="text-align:justify">
   
-[10] Van Petegem K., Moerman F., <b>Dahirel M.</b>, Fronhofer E.A., Vandegehuchte M.L., Van Leeuwen T., Wybouw N., Stoks R., Bonte D. (2018) <a href="https://doi.org/10.1111/ele.12887">Kin competition accelerates experimental range expansion in an arthropod herbivore</a>. <i>Ecology Letters</i> 21(2): 225-234
+[10] Van Petegem K., Moerman F., **Dahirel M.**, Fronhofer E.A., Vandegehuchte M.L., Van Leeuwen T., Wybouw N., Stoks R., Bonte D. (2018) <a href="https://doi.org/10.1111/ele.12887">Kin competition accelerates experimental range expansion in an arthropod herbivore</a>. *Ecology Letters* 21(2): 225-234
 
 
-[9] <b>Dahirel M.</b>, Vong A., Ansart A., Madec L. (2017) <a href="https://doi.org/10.1007/s11284-017-1484-x">Individual boldness is life stage-dependent and linked to dispersal in a hermaphrodite land snail</a>. <i>Ecological Research</i> 32(5): 751-755
+[9] **Dahirel M.**, Vong A., Ansart A., Madec L. (2017) <a href="https://doi.org/10.1007/s11284-017-1484-x">Individual boldness is life stage-dependent and linked to dispersal in a hermaphrodite land snail</a>. *Ecological Research* 32(5): 751-755
 
 
-[8] <b>Dahirel M.</b>, Dierick J., De Cock M., Bonte D. (2017) <a href="https://doi.org/10.1002/ecy.1915">Intraspecific variation shapes community-level behavioral responses to urbanization in spiders</a>. <i>Ecology</i> 98(9): 2379-2390
+[8] **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2017) <a href="https://doi.org/10.1002/ecy.1915">Intraspecific variation shapes community-level behavioral responses to urbanization in spiders</a>. *Ecology* 98(9): 2379-2390
 
-[7] Bonte D., <b>Dahirel M.</b>. (2017) <a href="https://doi.org/10.1111/oik.03801">Dispersal: a central and independent trait in life-history</a>. <i>Oikos</i>, 126(4): 472-479
+[7] Bonte D., **Dahirel M.**. (2017) <a href="https://doi.org/10.1111/oik.03801">Dispersal: a central and independent trait in life-history</a>. *Oikos*, 126(4): 472-479
 
-[6] <b>Dahirel M.*</b>, Séguret A.*, Ansart A., Madec L. (2016) <a href="https://doi.org/10.1007/s11252-016-0564-y">Dispersal-related traits of the snail <i>Cornu aspersum</i> along an urbanisation gradient: maintenance of mobility across life stages despite high costs</a>. (* joint first authors). <i>Urban Ecosystems</i>. 19 (4): 1847-1859
+[6] **Dahirel M.\*\ **, Séguret A.\*\, Ansart A., Madec L. (2016) (Dispersal-related traits of the snail *Cornu aspersum* along an urbanisation gradient: maintenance of mobility across life stages despite high costs)[https://doi.org/10.1007/s11252-016-0564-y]. (\*\ joint first authors). *Urban Ecosystems*. 19 (4): 1847-1859
 </p>
 
 [5] <b>Dahirel M.</b>, Vardakis M., Ansart A, Madec L. (2016). <a href="https://doi.org/10.1007/s00442-016-3636-z">Density-dependence across dispersal stages in a hermaphrodite land snail: insights from discrete choice models</a>. <i>Oecologia</i>, 181 (4): 1117-1128

@@ -5,7 +5,7 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 # Research axis 1: Dispersal ecology and evolution
 
-<div style="text-align: right">
+<div style="text-align: justify">
 Dispersal, i.e. movement leading to gene flow in space, is a key life-history trait with important consequences for the dynamics and evolution of populations, especially in changing environments.
 
 As costs and benefits of dispersal vary between individuals and depending on environmental context, condition- and context-dependent dispersal rules are expected to evolve and have been described in numerous taxa. However, our understanding of condition- and context-dependent dispersal is complicated by the fact that a given causal factor may have different effects at each stage of dispersal, and interact with others in synergistic or contradictory ways.

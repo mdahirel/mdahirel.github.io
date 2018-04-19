@@ -28,10 +28,10 @@ title: Maxime Dahirel, researcher in ecology and evolution
 [7] Bonte D., **Dahirel M.**. (2017) [Dispersal: a central and independent trait in life-history](https://doi.org/10.1111/oik.03801). *Oikos*, 126(4): 472-479
 
 [6] **Dahirel M.**\*, Séguret A.\*, Ansart A., Madec L. (2016) [Dispersal-related traits of the snail *Cornu aspersum* along an urbanisation gradient: maintenance of mobility across life stages despite high costs](https://doi.org/10.1007/s11252-016-0564-y). (\* joint first authors). *Urban Ecosystems*. 19 (4): 1847-1859
-</p>
+
 
 [5] **Dahirel M.**, Vardakis M., Ansart A, Madec L. (2016). [Density-dependence across dispersal stages in a hermaphrodite land snail: insights from discrete choice models](https://doi.org/10.1007/s00442-016-3636-z). *Oecologia*, 181 (4): 1117-1128
-</p>
+
 
 [4] **Dahirel M.**, Ansart A., Madec L. (2016). [Potential syndromes linking dispersal and reproduction in the hermaphrodite land snail *Cornu aspersum*](https://doi.org/10.1111/jzo.12328). *Journal of Zoology*, 299 (2): 98-105 
 

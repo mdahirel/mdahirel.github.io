@@ -11,5 +11,5 @@ UMR 6553 Ecobio<br>
 FR-35042 Rennes cedex, France
 
 
-E-mail: maxime.dahirel \[at\] univ-rennes1.fr\
+E-mail: maxime.dahirel \[at\] univ-rennes1.fr<br>
 Twitter: [@mdahirel](href="http://twitter.com/mdahirel")

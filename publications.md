@@ -5,17 +5,14 @@ title: Maxime Dahirel, researcher in ecology and evolution
 # Publications
 
 ## Preprints
-<div style="text-align:justify">
+
   
 [12] **Dahirel M.**, De Cock M., Vantieghem P., Bonte D. [Cobwebbing in the city: urbanization-driven changes in web-building are decoupled from body size in an orb-web spider](https://doi.org/10.1101/214924). *bioRxiv*, doi: 10.1101/214924
 
 [11] Fronhofer E.A., Legrand D., Altermatt F., Ansart A., Blanchet S., Bonte D., Chaine A., **Dahirel M.**, De Laender F., De Raedt J., di Gesu L., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Schtickzelle N., Therry L., Vong A., Winandy L., Cote J. [Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment](https://doi.org/10.1101/213256). *bioRxiv*, doi: 10.1101/213256
 
-</div>
 
 ## Published in peer-reviewed journals
-
-<div style="text-align:justify">
   
 [10] Van Petegem K., Moerman F., **Dahirel M.**, Fronhofer E.A., Vandegehuchte M.L., Van Leeuwen T., Wybouw N., Stoks R., Bonte D. (2018) [Kin competition accelerates experimental range expansion in an arthropod herbivore](https://doi.org/10.1111/ele.12887). *Ecology Letters* 21(2): 225-234
 
@@ -41,4 +38,3 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 [1] **Dahirel M.**, Ansart A, Madec L. (2014). <a href="https://doi.org/10.1007/s10144-013-0407-0">Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*. *Population Ecology* 56 (1): 227-237
 
-</div>

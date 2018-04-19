@@ -36,5 +36,5 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 [2] **Dahirel M.**, Olivier E., Guiller A., Martin M.-C., Madec L., Ansart A. (2015). [Movement propensity and ability correlate with ecological specialization in European land snails: comparative analysis of a dispersal syndrome](https://doi.org/10.1111/1365-2656.12276). *Journal of Animal Ecology*, 84 (1): 228-238
 
-[1] **Dahirel M.**, Ansart A, Madec L. (2014). <a href="https://doi.org/10.1007/s10144-013-0407-0">Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*. *Population Ecology* 56 (1): 227-237
+[1] **Dahirel M.**, Ansart A, Madec L. (2014). [Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*](https://doi.org/10.1007/s10144-013-0407-0). *Population Ecology* 56 (1): 227-237
 

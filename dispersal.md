@@ -9,7 +9,7 @@ title: Maxime Dahirel, researcher in ecology and evolution
 
 <p style='text-align: justify'>As costs and benefits of dispersal vary between individuals and depending on environmental context, condition- and context-dependent dispersal rules are expected to evolve and have been described in numerous taxa. However, our understanding of condition- and context-dependent dispersal is complicated by the fact that a given causal factor may have different effects at each stage of dispersal, and interact with others in synergistic or contradictory ways.</p>
 	
-<p style='text-align: justify'>I develop lab- and field-based experiments to understand how the interaction of various selective pressures shape the evolution of dispersal strategies and the association of dispersal with other traits in syndromes. I am also interested in unraveling the ecological and evolutionary consequences of such syndromes, especially in the context of human-induced rapid environmental changes (HIREC, see also [Research axis #2](https://mdahirel.github.io/urbanecology))</p>
+<p style='text-align: justify'>I develop lab- and field-based experiments to understand how the interaction of various selective pressures shape the evolution of dispersal strategies and the association of dispersal with other traits in syndromes. I am also interested in unraveling the ecological and evolutionary consequences of such syndromes, especially in the context of human-induced rapid environmental changes (HIREC, see also [Research axis #2](https://mdahirel.github.io/urbanecology)</p>
 
 **Current collaborations**: Armelle Ansart, David Renault (University of Rennes 1), Dries Bonte (Ghent University), 
 	members of the [dispNet research network](https://dispnet.github.io/).

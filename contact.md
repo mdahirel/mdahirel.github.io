@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maxime Dahirel, researcher in ecology and evolution
+title: Contact
 ---
 
 # Dr Maxime Dahirel

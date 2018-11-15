@@ -1,13 +1,11 @@
 ---
-layout: default
-title: Maxime Dahirel, researcher in ecology and evolution
+layout: home
+title: Home
+landing-title: 'Hi, my name is Forty'
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-# Hello!
-
-I am a behavioural and evolutionary ecologist, mainly interested in the causes and consequences of individual-, population- and species-level variation in behaviour, morphology and life-history, how it varies across space and time and how it is shaped by environmental conditions.
-My research is especially focused on the role of behaviour in explaining species’ ability (or inability) to persist in increasingly anthropogenic environments. 
-I develop these research themes using a combination of lab-based experiments and monitoring in naturalistic contexts.
-
-I use terrestrial gastropods (mainly the land snail *Cornu aspersum*), spider mites (*Tetranychus urticae*) and spiders as model organisms.
-
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.

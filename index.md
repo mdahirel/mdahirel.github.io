@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hello!'
 description: null
-image: images/test.jpg
+image: images/snail_dispersal.JPG
 author: null
 show_tile: false
 ---

@@ -12,15 +12,12 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+		<li><a href="https://mdahirel.github.io/">Home</a></li>
+		<li><a href="https://mdahirel.github.io/dispersal.html">Dispersal</a></li>
+		<li><a href="https://mdahirel.github.io/urbanecology.html">Urban Ecology</a></li>
+		<li><a href="https://mdahirel.github.io/publications.html">Publications</a></li>
+		<li><a href="https://mdahirel.github.io/mentoring.html">Mentoring</a></li>
+		<li><a href="https://mdahirel.github.io/cv.html">CV</a></li>
+		<li><a href="https://mdahirel.github.io/contact.md">Contact</a></li>
 	</ul>
 </nav>

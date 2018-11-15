@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hello!'
 description: null
-image: null
+image: images/test.jpg
 author: null
 show_tile: false
 ---

@@ -5,7 +5,7 @@ landing-title: 'Hello!'
 description: 
 image:
 author: null
-show_tile: false
+show_tile: true
 ---
 
 this is index test

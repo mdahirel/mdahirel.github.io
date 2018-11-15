@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Contact
 ---
 
-# Dr Maxime Dahirel
+Dr Maxime Dahirel
 
 Université de Rennes 1<br>
 UMR 6553 Ecobio<br>

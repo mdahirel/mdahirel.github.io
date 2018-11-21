@@ -3,7 +3,6 @@ layout: landing
 title: Dispersal ecology and evolution
 image: images/snail_dispersal.JPG
 ---
-
 >Clara sometimes asks me if I dream. "Of course I dream," I tell her, "Everybody dreams". "But what do you dream about?" she'll ask. "The same thing everybody dreams about," I tell her, "I dream about where I'm going." She always laughs at that. "But you're not going anywhere, you're just wandering about".
 >
 >That's not true. Not anymore. I have a new destination. My journey is the same as yours, the same as anyone's. It's taken me so many years, so many lifetimes, but, at last, I know where I'm going, where I've always been going: Home, the long way 'round.

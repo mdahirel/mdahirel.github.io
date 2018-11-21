@@ -3,7 +3,7 @@ layout: page
 title: Urban Ecology
 ---
 
-#Research axis 2: Behavioural and evolutionary responses to urbanisation</h1>
+# Research axis 2: Behavioural and evolutionary responses to urbanisation
 
 Due to the continued spatial expansion of anthropogenic environments and the intensity of human activities, the habitats of countless species and populations are now altered, destroyed or fragmented to a degree, leading to the decline or extinction of numerous taxa. Nevertheless, certain species manage to successfully exploit these evolutionarily novel conditions and are able to persist and even expand in anthropogenic environments; determining what are the characteristics that make some species or genotypes ‘winners’ and others ‘losers’ in the face of given environmental changes is a continuing task in ecology and evolutionary biology.
 

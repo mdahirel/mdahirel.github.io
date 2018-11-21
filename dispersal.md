@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: layout
 title: Dispersal ecology and evolution
+image: assets/images/snail_dispersal.JPG
 ---
-
-
-![snail image](/images/snail_dispersal.JPG)
 
 >Clara sometimes asks me if I dream. "Of course I dream," I tell her, "Everybody dreams". "But what do you dream about?" she'll ask. "The same thing everybody dreams about," I tell her, "I dream about where I'm going." She always laughs at that. "But you're not going anywhere, you're just wandering about".
 >

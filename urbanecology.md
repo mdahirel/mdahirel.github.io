@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research axis 2: Behavioural and evolutionary responses to urbanisation
+title: Research axis 2 Behavioural and evolutionary responses to urbanisation
 ---
 
 # Research axis 2: Behavioural and evolutionary responses to urbanisation

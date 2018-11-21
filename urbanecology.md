@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Behavioural and evolutionary responses to urbanisation
+title: Urban ecology and evolution
 image: assets/images/urban1.JPG
 ---
 

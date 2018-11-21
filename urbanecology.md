@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research axis 2 - Behavioural and evolutionary responses to urbanisation
+title: Behavioural and evolutionary responses to urbanisation
 ---
 
 >"The unwritten rule among biologists is that, when prompted, one should answer gruffly that cities are only necessary evils where a true biologist spends as little time as possible. The real world lies outside the urban realm, in forests, dales, and fields. Where the wild things are.

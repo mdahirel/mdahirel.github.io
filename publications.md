@@ -3,12 +3,12 @@ layout: post
 title: Publications
 ---
 
-<h2>Preprints</h2>
+## Preprints
 <p style="text-align:justify">
 [14] Vong A., Ansart A., <b>Dahirel M.</b> <a href="https://doi.org/10.1101/373001">Dispersers are more likely to follow mucus trails in the land snail <i>Cornu aspersum</i></a>. <i>bioRxiv</i>, doi: 10.1101/373001
 </p>
 
-<h2>Published in peer-reviewed journals</h2>
+## Published in peer-reviewed journals
 <p style="text-align:justify">
 [13] Fronhofer E.A., Legrand D., Altermatt F., Ansart A., Blanchet S., Bonte D., Chaine A., <b>Dahirel M.</b>, De Laender F., De Raedt J., di Gesu L., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Schtickzelle N., Therry L., Vong A., Winandy L., Cote J. <a href="https://www.nature.com/articles/s41559-018-0686-0">Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment</a>. <i>Nature Ecology and Evolution</i>
 </p>

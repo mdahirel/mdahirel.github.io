@@ -13,7 +13,7 @@ Due to the continued spatial expansion of anthropogenic environments and the int
 
 Urbanisation is one of the most dramatic forms of human-induced rapid environmental changes (HIREC), and a better understanding of organisms’ adaptive or maladaptive responses may help mitigate its impacts. In addition, their standardized nature make cities great ‘natural experiments’ to study the consequences of multiple environmental changes on behaviours, and provide interesting opportunities for testing general ecological and evolutionary hypotheses.
 
-Using sites in France and Belgium, I investigate how various behaviours ([dispersal](https://mdahirel.github.io/dispersal), foraging behaviour; reproductive behaviour…) and life-history traits respond to urbanisation at various scales, and evaluate the consequences for population/ species persistence and interactions.
+Using sites in France and Belgium, I investigate how various behaviours ([dispersal](https://mdahirel.github.io/dispersal), foraging behaviour, reproductive behaviour…) and life-history traits respond to urbanisation at various scales, and evaluate the consequences for population/ species persistence and interactions.
 
 **Main collaborations:** Dries Bonte (Ghent University), Solène Croci (CNRS, Rennes)
 

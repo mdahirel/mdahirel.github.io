@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: landing
 title: Dispersal ecology and evolution
 image: assets/images/snail_dispersal.JPG
 ---

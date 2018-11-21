@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Research axis 2: Behavioural and evolutionary responses to urbanisation
 ---
 

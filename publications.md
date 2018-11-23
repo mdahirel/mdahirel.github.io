@@ -9,12 +9,11 @@ title: Publications
 
 
 ## Published in peer-reviewed journals
-<p style="text-align:justify">
-[13] Fronhofer E.A., Legrand D., Altermatt F., Ansart A., Blanchet S., Bonte D., Chaine A., <b>Dahirel M.</b>, De Laender F., De Raedt J., di Gesu L., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Schtickzelle N., Therry L., Vong A., Winandy L., Cote J. <a href="https://www.nature.com/articles/s41559-018-0686-0">Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment</a>. <i>Nature Ecology and Evolution</i>
-</p>
-<p style="text-align:justify">
-[12] <b>Dahirel M.</b>, De Cock M., Vantieghem P., Bonte D. <a href="https://doi.org/10.1101/214924"> Urbanization-driven changes in web-building are decoupled from body size in an orb-web spider</a>. <i>Journal of Animal Ecology</i>, doi:10.1111/1365-2656.12909
-</p>
+
+[13] Fronhofer E.A., Legrand D., Altermatt F., Ansart A., Blanchet S., Bonte D., Chaine A., **Dahirel M.**, De Laender F., De Raedt J., di Gesu L., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Schtickzelle N., Therry L., Vong A., Winandy L., Cote J. (2018) [Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment](https://www.nature.com/articles/s41559-018-0686-0). *Nature Ecology and Evolution* 2, 1859–1863
+ 
+[12] **Dahirel M.**, De Cock M., Vantieghem P., Bonte D. (2018) [Urbanization-driven changes in web-building are decoupled from body size in an orb-web spider](https://doi.org/10.1111/1365-2656.12909). *Journal of Animal Ecology*, doi:10.1111/1365-2656.12909
+
 <p style="text-align:justify">
 [11] Merckx T., Souffreau C., Kaiser A., Baardsen L.F., Backeljau T., Bonte D., Brans K. I., Cours M., <b>Dahirel M.</b>, Debortoli N., De Wolf K., Engelen J.M.T., Fontaneto D., Gianuca A., Govaert L., Hendrickx F., Higuti J., Lens L., Martens K., Matheve H., Matthysen E., Piano E., Sablon R., Schön I., Van Doninck K., De Meester L., Van Dyck H. (2018) <a href="https://doi.org/10.1038/s41586-018-0140-0">Body size shifts in aquatic and terrestrial urban communities</a>. <i>Nature</i>, doi: 10.1038/s41586-018-0140-0 (direct link to pdf <a href="https://www.nature.com/articles/s41586-018-0140-0.epdf?author_access_token=M2r8Zmkd7tqfhkacVZjymdRgN0jAjWel9jnR3ZoTv0N7h0SCf5lPXEeqhwWsbAWVuXLF80BYR53f_KxF53ReKCWOY9ZxMPLp8lg3_kzdNXVZBi9_wW_t7YsPPWn6NZb5_nreNO2y2SpN4oIzJLSPZQ%3D%3D">here</a>)
 </p>

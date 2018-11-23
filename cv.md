@@ -20,7 +20,7 @@ Mentor: Prof. Dries Bonte (Ghent Univ.).
 **2011-2014: Research assistant (PhD student/candidate in Biology)**
 [University of Rennes 1, UMR 6553 Ecobio, France](https://ecobio.univ-rennes1.fr/)\
 “Individual and environmental drivers of dispersal in a hermaphrodite species, the land snail *Cornu aspersum*”\
-You can download my PhD thesis [here](http://www.theses.fr/en/2014REN1S068) (if you really want to; part of it is in French).
+You can download my PhD thesis [here](http://www.theses.fr/en/2014REN1S068) (if you really want to; part of it is in French).\
 Supervisors: Dr Armelle Ansart, Prof. Luc Madec (Univ. Rennes 1).
     
 ## List of publications

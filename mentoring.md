@@ -13,98 +13,84 @@ title: Mentoring
 
 ### 2018
 
-<b>Marie Wullschleger</b>
-<p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Julien Pétillon and Solène Croci<br>
-  Key themes: dispersal evolution; dispersal syndromes; quantitative genetics; landscape ecology <br>
-  Study species: <i>Erigone longipalpis</i> (Araneae, Linyphiidae)
-  </p>
+**Marie Wullschleger**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Julien Pétillon and Solène Croci  
+  Key themes: dispersal evolution; dispersal syndromes; quantitative genetics; landscape ecology  
+  Study species: *Erigone longipalpis* (Araneae, Linyphiidae)  
 
-<b>Nolwenn Decanter</b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Claudia Gérard<br>
-  Key themes: dispersal; dispersal syndromes; parasitic infection; immune defence <br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**Nolwenn Decanter**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Claudia Gérard  
+  Key themes: dispersal; dispersal syndromes; parasitic infection; immune defence  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
 ### 2017
 
-<b>Ronan Pensivy</b> 
-  <p style="text-align:justify">MSc 2nd year thesis - Université de Rouen, France - co-supervised by David Renault<br>
-  Key themes: stress ecology; dispersal syndromes<br>
-  Study species: <i>Drosophila melanogaster</i> (Diptera, Drosophilidae)
-  </p>
+**Ronan Pensivy**  
+MSc 2nd year thesis - Université de Rouen, France - co-supervised by David Renault  
+  Key themes: stress ecology; dispersal syndromes  
+  Study species: *Drosophila melanogaster* (Diptera, Drosophilidae)  
 
-<b>Tristan Berry</b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Julien Pétillon<br>
-  Key themes: dispersal; dispersal syndromes; animal contests; habitat fragmentation<br>
-  Study species: <i>Erigone atra</i> and <i>Erigone dentipalpis</i> (Araneae, Linyphiidae)
-  </p>
+**Tristan Berry**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Julien Pétillon  
+  Key themes: dispersal; dispersal syndromes; animal contests; habitat fragmentation  
+  Study species: *Erigone atra* and *Erigone dentipalpis* (Araneae, Linyphiidae)  
 
-<b>Valentin Gaudu</b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart<br>
-  Key themes: dispersal; dispersal syndromes; thermal ecology; habitat choice<br>
-  Study species: <i>Cepaea nemoralis</i> (Gastropoda, Helicidae)
-  </p>
+**Valentin Gaudu**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart  
+  Key themes: dispersal; dispersal syndromes; thermal ecology; habitat choice  
+  Study species: *Cepaea nemoralis* (Gastropoda, Helicidae)  
 
-<b>Loïc Menut</b>
-  <p style="text-align:justify">BSc research project - Université de Rennes 1, France - co-supervised by Armelle Ansart<br>
-  Key themes: dispersal; population density; mating systems<br>
-  Study species: <i>Pomatias elegans</i> (Gastropoda, Pomatiidae)
-  </p>
+**Loïc Menut** 
+BSc research project - Université de Rennes 1, France - co-supervised by Armelle Ansart  
+  Key themes: dispersal; population density; mating systems  
+  Study species: *Pomatias elegans* (Gastropoda, Pomatiidae)  
 
 ### 2016
 
-<b>Alexandre Vong</b>
-<p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: dispersal; animal personality; social information<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**Alexandre Vong**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: dispersal; animal personality; social information  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
-<b>Christelle Van Gheluwe</b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-Key themes: habitat choice; predation risk<br>
-  Study species: <i>Deroceras reticulatum</i> (Gastropoda, Agriolimacidae)
-  </p>
+**Christelle Van Gheluwe**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+Key themes: habitat choice; predation risk  
+  Study species: *Deroceras reticulatum* (Gastropoda, Agriolimacidae)  
 
 ### 2015
 
-<b><a href="http://www.orn.mpg.de/person/95289/2168">Baptiste Averly</a></b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: social information; habitat choice<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**[Baptiste Averly](http://www.orn.mpg.de/person/95289/2168)**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: social information; habitat choice  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
 ### 2014
 
-<b><a href="https://scholar.google.fr/citations?user=U_HV5vsAAAAJ&hl=en"> Alice Séguret</a></b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: dispersal; urbanization; sensory ecology<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**[Alice Séguret](https://scholar.google.fr/citations?user=U_HV5vsAAAAJ&hl=en)**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: dispersal; urbanization; sensory ecology  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
 ### 2013
 
-<b><a href="https://www.researchgate.net/profile/Hanna_Chole"> Hanna Cholé </a></b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: sensory ecology<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**[Hanna Cholé](https://www.researchgate.net/profile/Hanna_Chole)**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: sensory ecology  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
-<b><a href ="https://scholar.google.fr/citations?user=1rPv6m4AAAAJ&hl=en">Youn Henry</a></b> & <b>Alexandre Mounier</b>
-  <p style="text-align:justify">BSc research projects - Université de Rennes 1, France -   co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: dispersal; population density<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**[Youn Henry](https://scholar.google.fr/citations?user=1rPv6m4AAAAJ&hl=en)** & **Alexandre Mounier**  
+BSc research projects - Université de Rennes 1, France -   co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: dispersal; population density  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
  
-<b>Romain Lahaye</b>
-  <p style="text-align:justify">BSc research project - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: dispersal; methods development<br>
-  Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
-  </p>
+**Romain Lahaye**  
+BSc research project - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: dispersal; methods development  
+  Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
 ### 2012
 
-<b>Eric Olivier</b>
-  <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
-  Key themes: dispersal; phylogenetic comparative methods<br>
-  Study species: 20 species (Gastropoda, superfamily Helicoidea)
-</p>
+**Eric Olivier**  
+MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec  
+  Key themes: dispersal; phylogenetic comparative methods  
+  Study species: 20 species (Gastropoda, superfamily Helicoidea)  

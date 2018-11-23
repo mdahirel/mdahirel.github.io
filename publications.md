@@ -4,9 +4,9 @@ title: Publications
 ---
 
 ## Preprints
-<p style="text-align:justify">
-[14] Vong A., Ansart A., <b>Dahirel M.</b> <a href="https://doi.org/10.1101/373001">Dispersers are more likely to follow mucus trails in the land snail <i>Cornu aspersum</i></a>. <i>bioRxiv</i>, doi: 10.1101/373001
-</p>
+
+[14] Vong A., Ansart A., **Dahirel M.** [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://doi.org/10.1101/373001). *bioRxiv*, doi: 10.1101/373001
+
 
 ## Published in peer-reviewed journals
 <p style="text-align:justify">

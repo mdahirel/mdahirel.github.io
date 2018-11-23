@@ -40,7 +40,7 @@ MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle
   Key themes: dispersal; dispersal syndromes; thermal ecology; habitat choice  
   Study species: *Cepaea nemoralis* (Gastropoda, Helicidae)  
 
-**Loïc Menut** 
+**Loïc Menut**  
 BSc research project - Université de Rennes 1, France - co-supervised by Armelle Ansart  
   Key themes: dispersal; population density; mating systems  
   Study species: *Pomatias elegans* (Gastropoda, Pomatiidae)  

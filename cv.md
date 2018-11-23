@@ -10,47 +10,43 @@ You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1
 ## Previous research positions
 
   **2016-2018: ATER (fixed-term research and teaching associate)**
-	  <a href= "https://ecobio.univ-rennes1.fr/">University of Rennes 1, UMR 6553 Ecobio, France</a><br></p>
+  	[University of Rennes 1, UMR 6553 Ecobio, France](https://ecobio.univ-rennes1.fr/)
 
   **2015-2016: Postdoctoral researcher**
-    <a href="http://www.ecology.ugent.be/terec/home.php">Ghent University, Terrestrial Ecology unit, Gent, Belgium</a><br>
-    “Determinants of urbanisation-driven divergence in behaviours” (12 months, funded by a personal Fyssen Foundation fellowship)<br>
-    Mentor: Prof. Dries Bonte (Ghent Univ.).</p>
-
+    [Ghent University, Terrestrial Ecology unit, Gent, Belgium](http://www.ecology.ugent.be/terec/home.php)
+    “Determinants of urbanisation-driven divergence in behaviours” (12 months, funded by a personal Fyssen Foundation fellowship)
+    Mentor: Prof. Dries Bonte (Ghent Univ.).
+    
   **2011-2014: Research assistant (PhD student/candidate in Biology)**
-    <a href= "https://ecobio.univ-rennes1.fr/">University of Rennes 1, UMR 6553 Ecobio, France</a><br>
-    “Individual and environmental drivers of dispersal in a hermaphrodite species, the land snail <i>Cornu aspersum</i>”<br>
-	You can download my PhD thesis (if you really want to; part of it is in French)<a href = "http://www.theses.fr/en/2014REN1S068" > here</a><br>
-    Supervisors: Dr Armelle Ansart, Prof. Luc Madec (Univ. Rennes 1).</p>
+    [University of Rennes 1, UMR 6553 Ecobio, France](https://ecobio.univ-rennes1.fr/)
+    “Individual and environmental drivers of dispersal in a hermaphrodite species, the land snail *Cornu aspersum*”
+	You can download my PhD thesis (if you really want to; part of it is in French)[here](http://www.theses.fr/en/2014REN1S068)
+    Supervisors: Dr Armelle Ansart, Prof. Luc Madec (Univ. Rennes 1).
     
 ## List of publications
 See [here](https://mdahirel.github.io/publications)
 
 ## Research funding acquired
 
-	<p style="text-align:justify"><b>2018:</b> Research grant (€1500) from the Observatoire des Sciences de l’Univers de Rennes<br>
-	"Dispersal evolution in response to rapid fragmentation in a spider"<br>
-	With Julien Pétillon and Solène Croci</p>
+**2018:** Research grant (€1500) from the Observatoire des Sciences de l’Univers de Rennes
+"Dispersal evolution in response to rapid fragmentation in a spider"
+With Julien Pétillon and Solène Croci
 
-	<p style="text-align:justify"><b>2015:</b> Postdoctoral fellowship (€24600) from the <a href="http://www.fondationfyssen.fr/en/study-grants/aim-award/">Fyssen Foundation</a></p>
+**2015:** Postdoctoral fellowship (€24600) from the [Fyssen Foundation](http://www.fondationfyssen.fr/en/study-grants/aim-award/)
 
-
-<h2>Teaching experience</h2>
-  <p style="text-align:justify"><b>2016-2018: Fixed-term teaching and research associate (“ATER”)</b><br>
-University of Rennes 1, France<br>
-  Lectures and practical courses in Statistics, Zoology and Ecology to BSc and MSc students (>192 hours/year).</p>
+## Teaching experience
+**2016-2018: Fixed-term teaching and research associate (“ATER”)**
+University of Rennes 1, France
+Lectures and practical courses in Statistics, Zoology and Ecology to BSc and MSc students (>192 hours/year)
  
-  <p style="text-align:justify"><b>2011-2012 Teaching assistant (“moniteur”)</b><br>
-University of Rennes 1, France<br>
-  Theoretical and practical courses in Ecology, Evolution and Statistics to BSc and MSc students (64 hours)</p>
+**2011-2012 Teaching assistant (“moniteur”)**
+University of Rennes 1, France
+Theoretical and practical courses in Ecology, Evolution and Statistics to BSc and MSc students (64 hours)
 
-    <h2> Mentoring experience</h2>
-<p style="text-align:justify">See <a href="https://mdahirel.github.io/mentoring">here</a></p>
+## Mentoring experience
+See [here](https://mdahirel.github.io/mentoring)
     
-       <!-- <h2> Outreach and science communication</h2>
-    <p style="text-align:justify">See here</p> -->
-
-<h2>Peer review</h2>
-	<p style="text-align:justify">You can see my Publons record<a href="https://publons.com/author/1196421/maxime-dahirel"> here</a><br>
-		I am also a member of the <a href="https://www.britishecologicalsociety.org/funding/bes-review-college/"> Review College of the British Ecological Society</a></p>
+## Peer review
+You can see my Publons record [here](https://publons.com/author/1196421/maxime-dahirel)
+I am also a member of the [Review College of the British Ecological Society](https://www.britishecologicalsociety.org/funding/bes-review-college/)
 

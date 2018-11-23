@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: landing
 title: CV
 ---
 
-<h1>CV</h1>
+This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2018.pdf) (up to date as of September 2018)
 
-<p style="text-align:justify">This is the short version; you can download the long version as a pdf <a href="/files/CVMaxime%20DAHIREL_EN_2018.pdf" download="CV_DAHIREL">here</a> (up to date as of September 2018)</p>
+You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0)([What is it?](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/)) 
 
-<p style="text-align:justify">You can also find my "shadow CV" <a href="https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0">here</a> (<a href="https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/">What is it?</a>)</p> 
-
-<h2>Previous research positions</h2>
+## Previous research positions
 
   <p style="text-align:justify"><b>2016-2018: ATER (fixed-term research and teaching associate)</b><br>
 	  <a href= "https://ecobio.univ-rennes1.fr/">University of Rennes 1, UMR 6553 Ecobio, France</a><br></p>
@@ -28,7 +26,7 @@ title: CV
     <h2>List of publications</h2>
 <p style="text-align:justify"> See <a href="https://mdahirel.github.io/publications">here</a></p>
 
-<h2>Research funding acquired</h2>
+## Research funding acquired
 
 	<p style="text-align:justify"><b>2018:</b> Research grant (€1500) from the Observatoire des Sciences de l’Univers de Rennes<br>
 	"Dispersal evolution in response to rapid fragmentation in a spider"<br>

@@ -5,26 +5,26 @@ title: CV
 
 This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2018.pdf) (up to date as of September 2018)
 
-You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0)([What is it?](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/)) 
+You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0) ([What is it?](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/)) 
 
 ## Previous research positions
 
-  <p style="text-align:justify"><b>2016-2018: ATER (fixed-term research and teaching associate)</b><br>
+  ### **2016-2018: ATER (fixed-term research and teaching associate)**
 	  <a href= "https://ecobio.univ-rennes1.fr/">University of Rennes 1, UMR 6553 Ecobio, France</a><br></p>
 
-  <p style="text-align:justify"><b>2015-2016: Postdoctoral researcher</b><br>
+  ### **2015-2016: Postdoctoral researcher**
     <a href="http://www.ecology.ugent.be/terec/home.php">Ghent University, Terrestrial Ecology unit, Gent, Belgium</a><br>
     “Determinants of urbanisation-driven divergence in behaviours” (12 months, funded by a personal Fyssen Foundation fellowship)<br>
     Mentor: Prof. Dries Bonte (Ghent Univ.).</p>
 
-  <p style="text-align:justify"><b>2011-2014: Research assistant (PhD student/candidate in Biology)</b><br>
+  ### **2011-2014: Research assistant (PhD student/candidate in Biology)**
     <a href= "https://ecobio.univ-rennes1.fr/">University of Rennes 1, UMR 6553 Ecobio, France</a><br>
     “Individual and environmental drivers of dispersal in a hermaphrodite species, the land snail <i>Cornu aspersum</i>”<br>
 	You can download my PhD thesis (if you really want to; part of it is in French)<a href = "http://www.theses.fr/en/2014REN1S068" > here</a><br>
     Supervisors: Dr Armelle Ansart, Prof. Luc Madec (Univ. Rennes 1).</p>
     
-    <h2>List of publications</h2>
-<p style="text-align:justify"> See <a href="https://mdahirel.github.io/publications">here</a></p>
+## List of publications
+See [here](https://mdahirel.github.io/publications)
 
 ## Research funding acquired
 

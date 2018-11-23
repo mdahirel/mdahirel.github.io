@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: landing
 title: Mentoring
 ---
-<h1>Mentoring</h1>
-
 <!-- commented out while I don't have current students
 <h2>Current students </h2>
 
@@ -11,9 +9,9 @@ title: Mentoring
 
 -->
 
-<h2> Former students </h2>
+## Former students 
 
-<h3>2018</h3>
+### 2018
 
 <b>Marie Wullschleger</b>
 <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Julien Pétillon and Solène Croci<br>
@@ -27,7 +25,7 @@ title: Mentoring
   Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
   </p>
 
-<h3>2017</h3>
+### 2017
 
 <b>Ronan Pensivy</b> 
   <p style="text-align:justify">MSc 2nd year thesis - Université de Rouen, France - co-supervised by David Renault<br>
@@ -53,7 +51,7 @@ title: Mentoring
   Study species: <i>Pomatias elegans</i> (Gastropoda, Pomatiidae)
   </p>
 
-<h3>2016</h3>
+### 2016
 
 <b>Alexandre Vong</b>
 <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
@@ -67,7 +65,7 @@ Key themes: habitat choice; predation risk<br>
   Study species: <i>Deroceras reticulatum</i> (Gastropoda, Agriolimacidae)
   </p>
 
-<h3>2015</h3>
+### 2015
 
 <b><a href="http://www.orn.mpg.de/person/95289/2168">Baptiste Averly</a></b>
   <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
@@ -75,7 +73,7 @@ Key themes: habitat choice; predation risk<br>
   Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
   </p>
 
-<h3>2014</h3>
+### 2014
 
 <b><a href="https://scholar.google.fr/citations?user=U_HV5vsAAAAJ&hl=en"> Alice Séguret</a></b>
   <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
@@ -83,7 +81,7 @@ Key themes: habitat choice; predation risk<br>
   Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
   </p>
 
-<h3>2013</h3>
+### 2013
 
 <b><a href="https://www.researchgate.net/profile/Hanna_Chole"> Hanna Cholé </a></b>
   <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>
@@ -103,7 +101,7 @@ Key themes: habitat choice; predation risk<br>
   Study species: <i>Cornu aspersum</i> (Gastropoda, Helicidae)
   </p>
 
-<h3>2012</h3>
+### 2012
 
 <b>Eric Olivier</b>
   <p style="text-align:justify">MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle Ansart and Luc Madec<br>

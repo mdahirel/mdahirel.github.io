@@ -47,6 +47,6 @@ Theoretical and practical courses in Ecology, Evolution and Statistics to BSc an
 See [here](https://mdahirel.github.io/mentoring)
     
 ## Peer review
-You can see my Publons record [here](https://publons.com/author/1196421/maxime-dahirel)
+You can see my Publons record [here](https://publons.com/author/1196421/maxime-dahirel).
 I am also a member of the [Review College of the British Ecological Society](https://www.britishecologicalsociety.org/funding/bes-review-college/)
 

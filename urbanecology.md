@@ -6,7 +6,7 @@ image: assets/images/urban1.JPG
 
 >"The unwritten rule among biologists is that, when prompted, one should answer gruffly that cities are only necessary evils where a true biologist spends as little time as possible. The real world lies outside the urban realm, in forests, dales, and fields. Where the wild things are.
 >
->But if I am honest I must admit I secretly like cities. (...) To my biologist's eye, the inner city, for all its hustle and bustle and thoroughly unnatural appearance, becomes a constellation of miniature ecosystems."
+>But if I am honest I must admit I secretly like cities."
 >
 >Menno Schilthuizen, [**Darwin comes to town**](https://www.quercusbooks.co.uk/books/detail.page?isbn=9781786481092), Quercus, 2018
 

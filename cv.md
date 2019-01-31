@@ -9,19 +9,19 @@ You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1
 
 ## Current position
 
-**2019-present: Postdoctoral researcher**
+**2019-present: Postdoctoral researcher**  
 [INRA (French National Institute for Agricultural Research), Institut Sophia Agrobiotech, France](https://www6.paca.inra.fr/institut-sophia-agrobiotech_eng)
 
 ## Previous research positions
 
-**2016-2018: ATER (fixed-term research and teaching associate)**
+**2016-2018: ATER (fixed-term research and teaching associate)**  
 [University of Rennes 1, ECOBIO (Ecosystems, Biodiversity, Evolution) research unit, France](https://ecobio.univ-rennes1.fr/)
 
-**2015-2016: Postdoctoral researcher**
+**2015-2016: Postdoctoral researcher**  
 [Ghent University, Terrestrial Ecology unit, Gent, Belgium](http://www.ecology.ugent.be/terec/home.php)  
 (12 months, funded by a personal Fyssen Foundation fellowship)  
     
-**2011-2014: Research assistant (PhD student/candidate in Biology)**
+**2011-2014: Research assistant (PhD student/candidate in Biology)**  
 [University of Rennes 1, ECOBIO (Ecosystems, Biodiversity, Evolution) research unit, France](https://ecobio.univ-rennes1.fr/)  
 “Individual and environmental drivers of dispersal in a hermaphrodite species, the land snail *Cornu aspersum*”  
 You can download my PhD thesis [here](http://www.theses.fr/en/2014REN1S068) (if you really want to; part of it is in French).  

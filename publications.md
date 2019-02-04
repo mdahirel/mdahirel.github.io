@@ -10,7 +10,7 @@ title: Publications
 
 ## Published in peer-reviewed journals
 
-[13] **Dahirel M.**, De Cock M., Vantieghem P., Bonte D. (2018) [Urbanization-driven changes in web-building are decoupled from body size in an orb-web spider](https://doi.org/10.1111/1365-2656.12909). *Journal of Animal Ecology* 88,79-91
+[13] **Dahirel M.**, De Cock M., Vantieghem P., Bonte D. (2019) [Urbanization-driven changes in web-building are decoupled from body size in an orb-web spider](https://doi.org/10.1111/1365-2656.12909). *Journal of Animal Ecology* 88,79-91
 
 [12] Fronhofer E.A., Legrand D., Altermatt F., Ansart A., Blanchet S., Bonte D., Chaine A., **Dahirel M.**, De Laender F., De Raedt J., di Gesu L., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Schtickzelle N., Therry L., Vong A., Winandy L., Cote J. (2018) [Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment](https://www.nature.com/articles/s41559-018-0686-0). *Nature Ecology and Evolution* 2, 1859–1863
  

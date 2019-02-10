@@ -32,6 +32,6 @@ title: Publications
 
 [3] **Dahirel M.**, Cholé H., Séguret A., Madec L., Ansart A. (2015). [Context-dependence of the olfactory perceptual range in the generalist land snail *Cornu aspersum*](https://doi.org/10.1139/cjz-2015-0001). *Canadian Journal of Zoology*, 93(8): 665-669
 
-[2] **Dahirel M.**, Olivier E., Guiller A., Martin M.-C., Madec L., Ansart A. (2015). [Movement propensity and ability correlate with ecological specialization in European land snails: comparative analysis of a dispersal syndrome](https://doi.org/10.1111/1365-2656.12276). *Journal of Animal Ecology*, 84(1): 228-238
+[2] **Dahirel M.**, Olivier E., Guiller A., Martin M.-C., Madec L., Ansart A. (2015). [Movement propensity and ability correlate with ecological specialization in European land snails: comparative analysis of a dispersal syndrome](https://doi.org/10.1111/1365-2656.12276). *Journal of Animal Ecology*, 84(1): 228-238 ([featured in the *Movement Ecology* Virtual Issue](https://besjournals.onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1365-2656.MovementEcology))
 
 [1] **Dahirel M.**, Ansart A, Madec L. (2014). [Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*](https://doi.org/10.1007/s10144-013-0407-0). *Population Ecology* 56(1): 227-237

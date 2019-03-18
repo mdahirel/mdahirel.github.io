@@ -5,6 +5,8 @@ title: Publications
 
 ## Preprints
 
+[15] **Dahirel M.**\*, Masier S.\*, Renault D., Bonte D. [The distinct phenotypic signatures of dispersal and stress in an arthropod model: from physiology to life history](https://doi.org/10.1101/581116) (\* contributed equally to the work). *bioRxiv*, doi: 10.1101/581116
+
 [14] Vong A., Ansart A., **Dahirel M.** [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://doi.org/10.1101/373001). *bioRxiv*, doi: 10.1101/373001
 
 
@@ -24,7 +26,7 @@ title: Publications
 
 [7] Bonte D., **Dahirel M.** (2017) [Dispersal: a central and independent trait in life-history](https://doi.org/10.1111/oik.03801). *Oikos*, 126(4): 472-479
 
-[6] **Dahirel M.**\*, Séguret A.\* , Ansart A., Madec L. (2016) [Dispersal-related traits of the snail <i>Cornu aspersum</i> along an urbanisation gradient: maintenance of mobility across life stages despite high costs](https://doi.org/10.1007/s11252-016-0564-y). (\* joint first authors). *Urban Ecosystems*. 19(4): 1847-1859
+[6] **Dahirel M.**\*, Séguret A.\* , Ansart A., Madec L. (2016) [Dispersal-related traits of the snail <i>Cornu aspersum</i> along an urbanisation gradient: maintenance of mobility across life stages despite high costs](https://doi.org/10.1007/s11252-016-0564-y) (\* contributed equally to the work). *Urban Ecosystems*. 19(4): 1847-1859
 
 [5] **Dahirel M.**, Vardakis M., Ansart A, Madec L. (2016). [Density-dependence across dispersal stages in a hermaphrodite land snail: insights from discrete choice models](https://doi.org/10.1007/s00442-016-3636-z). *Oecologia*, 181(4): 1117-1128
 

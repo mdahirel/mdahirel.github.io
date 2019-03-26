@@ -3,7 +3,7 @@ layout: landing
 title: CV
 ---
 
-This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2018.pdf) (NB: September 2018 version, outdated; an updated pdf will be uploaded soon)
+This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2018.pdf) (NB: September 2018 version, outdated; an updated pdf will be uploaded soon; the short version below is up to date)
 
 You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0) ([What is it?](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/)) 
 
@@ -54,6 +54,6 @@ See [here](https://mdahirel.github.io/mentoring)
     
 ## Peer review
 
-You can see my Publons record [here](https://publons.com/author/1196421/maxime-dahirel).  
+You can see my Publons record [here](https://publons.com/author/1196421/maxime-dahirel).
 I am also a member of the [Review College of the British Ecological Society](https://www.britishecologicalsociety.org/funding/bes-review-college/)
 

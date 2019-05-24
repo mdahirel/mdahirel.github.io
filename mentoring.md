@@ -78,7 +78,7 @@ MSc 1st year thesis - Université de Rennes 1, France - co-supervised by Armelle
   Key themes: sensory ecology  
   Study species: *Cornu aspersum* (Gastropoda, Helicidae)  
 
-**[Youn Henry](https://scholar.google.fr/citations?user=1rPv6m4AAAAJ&hl=en)** & **Alexandre Mounier**  
+**[Youn Henry](https://sites.google.com/view/younhenry/home)** & **Alexandre Mounier**  
 BSc research projects - Université de Rennes 1, France -   co-supervised by Armelle Ansart and Luc Madec  
   Key themes: dispersal; population density  
   Study species: *Cornu aspersum* (Gastropoda, Helicidae)  

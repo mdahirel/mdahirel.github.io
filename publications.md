@@ -7,11 +7,9 @@ title: Publications
 
 [15] **Dahirel M.**\*, Masier S.\*, Renault D., Bonte D. [The distinct phenotypic signatures of dispersal and stress in an arthropod model: from physiology to life history](https://doi.org/10.1101/581116) (\* contributed equally to the work). *bioRxiv*, doi: 10.1101/581116
 
-## Accepted, in press
-
-[14] Vong A., Ansart A., **Dahirel M.** [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://doi.org/10.1101/373001). To be published in *The Science of Nature* (preprint available on *bioRxiv*, doi: 10.1101/373001)
-
 ## Published in peer-reviewed journals
+
+[14] Vong A., Ansart A., **Dahirel M.** (2019) [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://link.springer.com/article/10.1007%2Fs00114-019-1642-9). *The Science of Nature* 106, 43 (preprint available on [*bioRxiv*](https://doi.org/10.1101/373001))
 
 [13] **Dahirel M.**, De Cock M., Vantieghem P., Bonte D. (2019) [Urbanization-driven changes in web-building are decoupled from body size in an orb-web spider](https://doi.org/10.1111/1365-2656.12909). *Journal of Animal Ecology* 88, 79–91
 

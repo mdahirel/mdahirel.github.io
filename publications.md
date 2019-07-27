@@ -40,7 +40,7 @@ title: Publications
 ## Communications in international conferences
 
 ### Talks
-[5](invited symposium talk) **Dahirel M.**, De Cock M., Bonte D. (2017). Body size constraints and behavioural adaptations to city life: a case study in the spider *Araneus diadematus*. Ecology Across Borders, joint conference of the BES, GfÖ and NeCoV, Ghent, Belgium*
+[5] (invited symposium talk) **Dahirel M.**, De Cock M., Bonte D. (2017). Body size constraints and behavioural adaptations to city life: a case study in the spider *Araneus diadematus*. Ecology Across Borders, joint conference of the BES, GfÖ and NeCoV, Ghent, Belgium*
 
 [4]	**Dahirel M.**, Masier S., Renault D., Bonte D. (2017). Metabolite profiles, dispersal syndromes and response to stress in spider mites. *EVENET Dispersal conference – “connecting networks”, Ghent, Belgium*
 
@@ -53,7 +53,7 @@ title: Publications
 
 ### Posters
 
-[4](upcoming, invited symposium remote poster) **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2019). Orb-web spider responses to city life: Species replacement, phenotypic changes and consequences for ecosystem functioning. *2019 conference of the Entomology Society of America, St Louis, USA*
+[4] (upcoming, invited symposium remote poster) **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2019). Orb-web spider responses to city life: Species replacement, phenotypic changes and consequences for ecosystem functioning. *2019 conference of the Entomology Society of America, St Louis, USA*
 
 [3] **Dahirel M.**, Ansart A., Madec L. (2014).  Studying the interplay between dispersal behavior and reproduction in hermaphrodites, using land snails as models. *15th conference of the International Society for Behavioral Ecology, New York, USA*
 

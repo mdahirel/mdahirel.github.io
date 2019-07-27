@@ -36,3 +36,27 @@ title: Publications
 [2] **Dahirel M.**, Olivier E., Guiller A., Martin M.-C., Madec L., Ansart A. (2015). [Movement propensity and ability correlate with ecological specialization in European land snails: comparative analysis of a dispersal syndrome](https://doi.org/10.1111/1365-2656.12276). *Journal of Animal Ecology*, 84(1): 228-238 ([featured in the *Movement Ecology* Virtual Issue](https://besjournals.onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1365-2656.MovementEcology))
 
 [1] **Dahirel M.**, Ansart A, Madec L. (2014). [Stage- and weather-dependent dispersal in the brown garden snail *Cornu aspersum*](https://doi.org/10.1007/s10144-013-0407-0). *Population Ecology* 56(1): 227-237
+
+## Communications in international conferences
+
+### Talks
+[5](invited symposium talk) **Dahirel M.**, De Cock M., Bonte D. (2017). Body size constraints and behavioural adaptations to city life: a case study in the spider *Araneus diadematus*. Ecology Across Borders, joint conference of the BES, GfÖ and NeCoV, Ghent, Belgium*
+
+[4]	**Dahirel M.**, Masier S., Renault D., Bonte D. (2017). Metabolite profiles, dispersal syndromes and response to stress in spider mites. *EVENET Dispersal conference – “connecting networks”, Ghent, Belgium*
+
+[3]	**Dahirel M.**, Dierick J., Bonte D. (2016). Behavioural responses of arachnids to urbanisation: the role of intra- and inter-specific variation. *16th conference of the International Society for Behavioral Ecology, Exeter, UK*
+
+[2]	**Dahirel M.**, Olivier E., Madec L., Ansart A. (2013). Habitat specialization and movement characteristics in European helicoid land snails: implications for dispersal and foraging strategies. *9th “Ecology & Behaviour” SERL meeting, Strasbourg, France*
+
+[1] **Dahirel M.**, Ansart A., Madec L. (2012). Dispersal strategies in the land snail Cornu aspersum: sex-biased dispersal in a hermaphroditic species? *8th “Ecology & Behaviour” SERL meeting, Chizé, France*
+
+
+### Posters
+
+[4](upcoming, invited symposium remote poster) **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2019). Orb-web spider responses to city life: Species replacement, phenotypic changes and consequences for ecosystem functioning. *2019 conference of the Entomology Society of America, St Louis, USA*
+
+[3] **Dahirel M.**, Ansart A., Madec L. (2014).  Studying the interplay between dispersal behavior and reproduction in hermaphrodites, using land snails as models. *15th conference of the International Society for Behavioral Ecology, New York, USA*
+
+[2] **Dahirel M.**, Olivier E., Guiller A., Martin M.-C., Madec L., Ansart A. (2013). How does habitat specialization influence dispersal? A comparative approach in European land snails. *1st Movement and Dispersal Conference, Aberdeen, UK*
+
+[1] **Dahirel M.**, Ansart A., Madec L. (2013). Slow but sure: stage-dependent dispersal in the brown garden snail *Cornu aspersum*. *Causes and Consequences of Organism Dispersal, Lund, Sweden*

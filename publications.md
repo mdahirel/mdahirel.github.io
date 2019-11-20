@@ -3,11 +3,9 @@ layout: landing
 title: Publications
 ---
 
-## Preprints
-
-[15] **Dahirel M.**\*, Masier S.\*, Renault D., Bonte D. [The distinct phenotypic signatures of dispersal and stress in an arthropod model: from physiology to life history](https://doi.org/10.1101/581116) (\* contributed equally to the work). *bioRxiv*, doi: 10.1101/581116
-
 ## Published in peer-reviewed journals
+
+[15] **Dahirel M.**\*, Masier S.\*, Renault D., Bonte D. [The distinct phenotypic signatures of dispersal and stress in an arthropod model: from physiology to life history](https://doi.org/10.1242/jeb.203596).  *Journal of Experimental Biology*, 222, jeb203596 (preprint available on [*bioRxiv*](https://doi.org/10.1101/581116)) (\* contributed equally to the work)
 
 [14] Vong A., Ansart A., **Dahirel M.** (2019) [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://link.springer.com/article/10.1007%2Fs00114-019-1642-9). *The Science of Nature* 106, 43 (preprint available on [*bioRxiv*](https://doi.org/10.1101/373001))
 
@@ -53,7 +51,7 @@ title: Publications
 
 ### Posters
 
-[4] (upcoming, invited symposium remote poster) **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2019). Orb-web spider responses to city life: Species replacement, phenotypic changes and consequences for ecosystem functioning. *2019 conference of the Entomology Society of America, St Louis, USA*
+[4] (invited symposium remote poster) **Dahirel M.**, Dierick J., De Cock M., Bonte D. (2019). Orb-web spider responses to city life: Species replacement, phenotypic changes and consequences for ecosystem functioning. *2019 conference of the Entomology Society of America, St Louis, USA*
 
 [3] **Dahirel M.**, Ansart A., Madec L. (2014).  Studying the interplay between dispersal behavior and reproduction in hermaphrodites, using land snails as models. *15th conference of the International Society for Behavioral Ecology, New York, USA*
 

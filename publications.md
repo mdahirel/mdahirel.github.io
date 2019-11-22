@@ -5,6 +5,8 @@ title: Publications
 
 ## Published in peer-reviewed journals
 
+[16] Piano E., Souffreau C., Merckx T., Baardsen L.F., Backeljau T., Bonte D., Brans K.I., Cours M., **Dahirel M.**, Debortoli N., Decaestecker E., De Wolf K., Engelen J.M.T., Fontaneto D., Gianuca A.T., Govaert L., Hanashiro F.T.T., Higuti J., Lens L., Martens K., Matheve H., Matthysen E., Pinseel E., Sablon R., Schön I., Stoks R., Van Doninck K., Van Dyck H., Vanormelingen P., Van Wichelen J., Vyverman W., De Meester L., Hendrickx F. (2019) [Urbanization drives cross‐taxon declines in abundance and diversity at multiple spatial scales](https://doi.org/10.1111/gcb.14934). *Global Change Biology* doi:10.1111/gcb.14934
+
 [15] **Dahirel M.**\*, Masier S.\*, Renault D., Bonte D. (2019) [The distinct phenotypic signatures of dispersal and stress in an arthropod model: from physiology to life history](https://doi.org/10.1242/jeb.203596).  *Journal of Experimental Biology*, 222, jeb203596 (preprint available on [*bioRxiv*](https://doi.org/10.1101/581116)) (\* contributed equally to the work)
 
 [14] Vong A., Ansart A., **Dahirel M.** (2019) [Dispersers are more likely to follow mucus trails in the land snail *Cornu aspersum*](https://link.springer.com/article/10.1007%2Fs00114-019-1642-9). *The Science of Nature* 106, 43 (preprint available on [*bioRxiv*](https://doi.org/10.1101/373001))

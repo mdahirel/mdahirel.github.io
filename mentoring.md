@@ -2,12 +2,15 @@
 layout: landing
 title: Mentoring
 ---
-<!-- commented out while I don't have current students
-<h2>Current students </h2>
 
-<hr/>
+## Former students 
 
--->
+### 2020
+
+**Chloé Guicharnaud**  
+MSc 2nd year thesis - Université Claude Bernard Lyon 1, France - co-supervised by Elodie Vercken  
+  Key themes: range expansions; individual-based modelling ; data synthesis
+  Study species: none and any (individual-based modelling and synthesis of existing literature) 
 
 ## Former students 
 

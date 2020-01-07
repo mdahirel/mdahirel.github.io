@@ -10,7 +10,7 @@ You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1
 ## Current position
 
 **2019-present: Postdoctoral researcher**  
-[INRA (French National Institute for Agricultural Research), Institut Sophia Agrobiotech, France](https://www6.paca.inra.fr/institut-sophia-agrobiotech_eng)
+[INRAE (French national institute for agricultural, food and environmental research, ex-INRA), Institut Sophia Agrobiotech, France](https://www6.paca.inra.fr/institut-sophia-agrobiotech_eng)
 
 ## Previous research positions
 

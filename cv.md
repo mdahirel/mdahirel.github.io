@@ -3,14 +3,14 @@ layout: landing
 title: CV
 ---
 
-This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2018.pdf) (NB: September 2018 version, outdated; an updated pdf will be uploaded soon; the short version below is up to date)
+This is the short version; you can download the long version as a pdf [here](/files/CVMaxime%20DAHIREL_EN_2020_FULL.pdf) (up to date as of early January 2020)
 
 You can also find my "shadow CV" [here](https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit#gid=0) ([What is it?](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/)) 
 
 ## Current position
 
 **2019-present: Postdoctoral researcher**  
-[INRAE (French national institute for agricultural, food and environmental research, ex-INRA), Institut Sophia Agrobiotech, France](https://www6.paca.inra.fr/institut-sophia-agrobiotech_eng)
+[INRAE (French national institute for agricultural, food and environmental research, formerly INRA), Institut Sophia Agrobiotech, France](https://www6.paca.inra.fr/institut-sophia-agrobiotech_eng)
 
 ## Previous research positions
 

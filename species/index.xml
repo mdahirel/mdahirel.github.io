@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Species | Maxime Dahirel</title>
+    <link>/species/</link>
+      <atom:link href="/species/index.xml" rel="self" type="application/rss+xml" />
+    <description>Species</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Content by Maxime Dahirel, unless specified otherwise. Tab icon by [Gareth Monger](http://phylopic.org/image/cdc067a4-c2cc-4962-b330-2c9d02d245cb/) through [Phylopic](http://phylopic.org/)</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud65e135bde620948eec5392513dd8580_19198_512x512_fill_lanczos_center_2.png</url>
+      <title>Species</title>
+      <link>/species/</link>
+    </image>
+    
+    <item>
+      <title>Land snails and slugs</title>
+      <link>/species/land-snails-and-slugs/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/species/land-snails-and-slugs/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;snails are cool guys, did you know that?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spiders</title>
+      <link>/species/spiders/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/species/spiders/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;spoods are cool too. I think?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

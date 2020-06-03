@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Content by Maxime Dahirel, unless specified otherwise. Tab icon by [Gareth Monger](http://phylopic.org/image/cdc067a4-c2cc-4962-b330-2c9d02d245cb/) through [Phylopic](http://phylopic.org/)</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Content by Maxime Dahirel, unless specified otherwise · Tab icon by [Gareth Monger](http://phylopic.org/image/cdc067a4-c2cc-4962-b330-2c9d02d245cb/) through [Phylopic](http://phylopic.org/) · Made using [blogdown](https://bookdown.org/yihui/blogdown/)</copyright>
     <image>
       <url>/images/icon_hud65e135bde620948eec5392513dd8580_19198_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>

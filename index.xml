@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Dahirel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Content by Maxime Dahirel, unless specified · Tab icon by [Gareth Monger](http://phylopic.org/image/cdc067a4-c2cc-4962-b330-2c9d02d245cb/) for [Phylopic](http://phylopic.org/) · Made using [blogdown](https://bookdown.org/yihui/blogdown/)</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Content by Maxime Dahirel, unless specified · Tab icon by [Gareth Monger](http://phylopic.org/image/cdc067a4-c2cc-4962-b330-2c9d02d245cb/) for [Phylopic](http://phylopic.org/) · Made using [blogdown](https://bookdown.org/yihui/blogdown/)</copyright><lastBuildDate>Mon, 21 Mar 2022 22:29:01 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud65e135bde620948eec5392513dd8580_19198_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Dahirel</title>
@@ -13,17 +13,68 @@
     </image>
     
     <item>
+      <title>CV</title>
+      <link>/post/cv/</link>
+      <pubDate>Mon, 21 Mar 2022 22:29:01 +0000</pubDate>
+      <guid>/post/cv/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;You can download my full CV (last updated 2022-03) as a pdf &lt;a href=&#34;https://github.com/mdahirel/cv/raw/main/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also find my “shadow” CV (a.k.a. CV of failures) &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1efUgL-gGpwHfMVq3sprzAPMz0L3C8fU_u6dqADEf6DM/edit?usp=sharing&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/post/publications/</link>
+      <pubDate>Mon, 21 Mar 2022 22:28:51 +0000</pubDate>
+      <guid>/post/publications/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;p&gt;In the meantime, you can download my CV (pdf) &lt;a href=&#34;https://github.com/mdahirel/cv/raw/main/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/post/people/</link>
+      <pubDate>Mon, 21 Mar 2022 22:28:46 +0000</pubDate>
+      <guid>/post/people/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;current-students&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Current students&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=O9F6iy4AAAAJ&#34;&gt;Chloé Guicharnaud&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+PhD student - Université Côte d’Azur, France - co-supervised by Elodie Vercken&lt;br /&gt;
+(prev. MSc 2nd year project - Université Claude Bernard Lyon 1, France - co-supervised by Elodie Vercken)&lt;br /&gt;
+Key themes: evolution during range expansions; individual-based modelling; data synthesis&lt;br /&gt;
+Study species: &lt;em&gt;Trichogramma&lt;/em&gt; wasps (Hymenoptera, Trichogrammatidae), and many virtual species&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youna de Tombeur&lt;/strong&gt;&lt;br /&gt;
+MSc 1st year project - Université de Rennes 1, France - co-supervised by Armelle Ansart and Claudia Gérard&lt;br /&gt;
+Key themes: urban ecology; snail-parasite interactions&lt;br /&gt;
+Study species: &lt;em&gt;Cornu aspersum&lt;/em&gt;, &lt;em&gt;Cepaea nemoralis&lt;/em&gt; (Gastropoda, Helicidae) and their animal parasites&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Land snails and slugs</title>
       <link>/species/land-snails-and-slugs/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/species/land-snails-and-slugs/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/species/land-snails-and-slugs/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Land molluscs are my main group of expertise. I use them as models in dispersal ecology, to study the causes and consequences of individual behaviour differences (or “personalities”) and to understand the impacts of urbanization.&lt;/p&gt;
 &lt;p&gt;I work mostly with the common land snails &lt;em&gt;Cornu aspersum&lt;/em&gt; and &lt;em&gt;Cepaea nemoralis&lt;/em&gt;, but have handled 20 other species of land molluscs in the lab.&lt;/p&gt;
-&lt;p&gt;More info soon&lt;/p&gt;
 </description>
     </item>
     
@@ -33,12 +84,11 @@
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/species/spiders/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/species/spiders/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;I study orb weavers (primarily Araneidae, but also Tetragnathidae), as their webs are great integrators of their foraging strategies in response to environmental changes.&lt;/p&gt;
+&lt;p&gt;I study orb weavers (primarily Araneidae), as their webs are great integrators of their foraging strategies in response to environmental changes.&lt;/p&gt;
 &lt;p&gt;I also use money spiders (fam. Linyphiidae, especially &lt;em&gt;Erigone&lt;/em&gt; sp.) as models to study the evolution of dispersal and integrated phenotypes.&lt;/p&gt;
-&lt;p&gt;More info soon&lt;/p&gt;
 </description>
     </item>
     

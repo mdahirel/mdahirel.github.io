@@ -4,4 +4,3 @@ editor: visual
 ---
 
 You can download an up-to-date CV from [here](https://github.com/mdahirel/cv/raw/main/cv.pdf){target="_blank"}
-

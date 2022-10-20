@@ -5,16 +5,13 @@ editor: visual
 
 ## Current students (2022/2023)
 
-- [**Chloé Guicharnaud**](https://scholar.google.com/citations?user=O9F6iy4AAAAJ)\
-PhD student · Université Côte d'Azur, France · co-supervised by Elodie Vercken\
-  <font size=-0.5>
-  + Key themes: evolution during range expansions; individual-based modelling; data synthesis\
-  + Study species: *Trichogramma* wasps (Hymenoptera, Trichogrammatidae), and many virtual species
-  </font>
-
-- **Hannah Reyné**\
-Master student · Ghent University, Belgium · co-supervised by Dries Bonte\
-  <font size=-0.5>
-  + Key themes: urban ecology; snail-parasite interactions\
-  + Study species: *Cornu aspersum*, *Cepaea nemoralis* (Gastropoda, Helicidae) and their animal parasites
-  </font>
+-   [**Chloé Guicharnaud**](https://scholar.google.com/citations?user=O9F6iy4AAAAJ)\
+    PhD student · Université Côte d'Azur, France · co-supervised by Elodie Vercken\
+    <font size=-0.5>
+    -   Key themes: evolution during range expansions; individual-based modelling; data synthesis\
+    -   Study species: *Trichogramma* wasps (Hymenoptera, Trichogrammatidae), and many virtual species </font>
+-   **Hannah Reyné**\
+    Master student · Ghent University, Belgium · co-supervised by Dries Bonte\
+    <font size=-0.5>
+    -   Key themes: urban ecology; snail-parasite interactions\
+    -   Study species: *Cornu aspersum*, *Cepaea nemoralis* (Gastropoda, Helicidae) and their animal parasites </font>

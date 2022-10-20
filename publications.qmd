@@ -42,7 +42,7 @@ for (i in 1:length(years)){
  df_now <- get(paste0("df",years[i]))
   cat(
     if(unique(df$section)=="peer-reviewed"){
-      paste0("## ", unique(df_now$end),sep="") # we only use the year breaks for peer-reviewed, not preprints
+      paste0("### ", unique(df_now$end),sep="") # we only use the year breaks for peer-reviewed, not preprints
       }, 
     paste0("- ",df_now$title, "<br/>",  
            df_now$loc, 
@@ -58,13 +58,13 @@ for (i in 1:length(years)){
 
 ```
 
-# Preprints (`r length(preprints$title)`)
+## Preprints (`r length(preprints$title)`)
 
 ```{r results='asis'}
 formatted_reflist(preprints)
 ```
 
-# Peer-reviewed publications (`r length(published$title)`)
+## Peer-reviewed publications (`r length(published$title)`)
 
 ```{r results='asis'}
 formatted_reflist(published)

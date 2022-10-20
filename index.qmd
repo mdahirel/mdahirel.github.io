@@ -5,11 +5,13 @@ about:
  image: images/avatar.png
  image-shape: round
  links:
-   - icon: twitter
+   - text: "{{< fa brands twitter size=2x >}} Twitter"
      href: https://twitter.com/mdahirel
-   - icon: github
+   - text: "{{< fa brands github size=2x >}} Github"
      href: https://github.com/mdahirel
-   - text: ORCID
+   - text: "{{< ai inaturalist size=2x >}} iNaturalist"
+     href: https://www.inaturalist.org/people/msjdahirel
+   - text: "{{< ai orcid size=2x >}} ORCID"
      href: https://orcid.org/0000-0001-8077-7765
 ---
 

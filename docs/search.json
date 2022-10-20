@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Dr Maxime Dahirel\nDepartment of Biology\nGhent University\nK.L. Ledeganckstraat 35\nB-9000 Gent\nBelgium"
+    "text": "maxime.dahirel [at] ugent.be\nDr Maxime Dahirel\nDepartment of Biology\nGhent University\nK.L. Ledeganckstraat 35\nB-9000 Gent\nBelgium"
   },
   {
     "objectID": "cv.html",
@@ -25,14 +25,14 @@
     "href": "dispersal.html",
     "title": "Dispersal ecology and evolution",
     "section": "",
-    "text": "I develop lab and field experiments to understand how the interaction of various selective pressures shape the evolution of dispersal and its association with other traits in syndromes. I am also interested in unraveling the ecological and evolutionary consequences of such syndromes, especially in the context of human-induced rapid environmental changes and range expansions.\nMain collaborations: Armelle Ansart, Julien Pétillon (University of Rennes 1), Dries Bonte (Ghent University), Elodie Vercken (INRAE, Sophia-Antipolis)\nParticipation in collaboration networks: dispNet"
+    "text": "Dispersal movements are one of the main mechanisms shaping evolution and genetic diversity, and one of the fundamental drivers of population dynamics. Knowledge of dispersal is crucial to understand whether organisms can cope with current environmental changes, which are often spatially structured (such as habitat fragmentation).\nI develop lab and field experiments to understand how the interaction of various selective pressures shape the evolution of dispersal and its association with other traits in syndromes. I am also interested in unraveling the ecological and evolutionary consequences of such syndromes, especially in the context of human-induced rapid environmental changes and range expansions.\nMain collaborations: Armelle Ansart, Julien Pétillon (University of Rennes 1), Dries Bonte (Ghent University), Elodie Vercken (INRAE, Sophia-Antipolis)\nParticipation in collaboration networks: dispNet"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Maxime Dahirel (he/him)",
     "section": "",
-    "text": "I am a behavioural and evolutionary ecologist interested in the causes and consequences of dispersal and in adaptation to city life.\nI am currently a Marie Skłodowska-Curie Fellow in the Terrestrial Ecology Unit @ Ghent University, in Belgium (project HELICITY)."
+    "text": "Hi!\nI am a behavioural and evolutionary ecologist interested in the causes and consequences of dispersal and in adaptation to city life.\nI am currently a Marie Skłodowska-Curie Fellow in the Terrestrial Ecology Unit @ Ghent University, in Belgium (project HELICITY)."
   },
   {
     "objectID": "people.html",
@@ -116,20 +116,20 @@
     "href": "snails.html",
     "title": "Land snails",
     "section": "",
-    "text": "I work mostly with the common land snails Cornu aspersum and Cepaea nemoralis, but have handled 20 other species of land molluscs in the lab.\n\n\n\nCornu aspersum, by Franz Anthony for the Circles of Life project (used with permission)"
+    "text": "Land molluscs are my main group of expertise. I use them to understand the impacts of urbanization, as models in dispersal ecology, and to study the causes and consequences of individual behaviour differences (or “personalities”).\nI work mostly with the common land snails Cornu aspersum and Cepaea nemoralis, but have handled 20 other species of land molluscs in the lab.\n\n\n\nCornu aspersum, by Franz Anthony for the Circles of Life project (used with permission)"
   },
   {
     "objectID": "spiders.html",
     "href": "spiders.html",
     "title": "Spiders",
     "section": "",
-    "text": "orb weavers (primarily Araneidae), as the morphology of their webs can contain information about their foraging strategies, especially in response to environmental changes.\nmoney spiders (Linyphiidae, especially Erigone sp.) as models to study the evolution of dispersal and integrated phenotypes."
+    "text": "Besides snails, I occasionally study spiders:\n\norb weavers (primarily Araneidae), as the morphology of their webs can contain information about their foraging strategies, especially in response to environmental changes.\nmoney spiders (Linyphiidae, especially Erigone sp.) as models to study the evolution of dispersal and integrated phenotypes."
   },
   {
     "objectID": "urban-ecology.html",
     "href": "urban-ecology.html",
     "title": "Urban ecology and evolution",
     "section": "",
-    "text": "Many species are unable to adapt to the myriad environmental changes associated with city life: urbanization has caused numerous population declines and local species extinctions, and is a major source of biological homogenization worldwide. This is likely in turn to influence human well-being and health, through the loss or degradation of key ecosystem services in cities. Yet, some organisms persist or even thrive in cities, directly or following evolutionary changes.\nUsing cities in France and Belgium, I investigate how various behaviours and life-history traits respond to urbanization at various scales, and try to find out whether this affects population/ species persistence in cities and interactions with other species, including humans.\nMain collaborations: Dries Bonte (Ghent University), Solène Croci (CNRS, Rennes)\nParticipation in collaboration networks: Global Urban Evolution (GLUE), SPIN-CITY."
+    "text": "Over half of humanity now lives in cities, and this proportion, along with the surface of urban lands, is expected to rise continuously during this century.\nMany species are unable to adapt to the myriad environmental changes associated with city life: urbanization has caused numerous population declines and local species extinctions, and is a major source of biological homogenization worldwide. This is likely in turn to influence human well-being and health, through the loss or degradation of key ecosystem services in cities. Yet, some organisms persist or even thrive in cities, directly or following evolutionary changes.\nUsing cities in France and Belgium, I investigate how various behaviours and life-history traits respond to urbanization at various scales, and try to find out whether this affects population/ species persistence in cities and interactions with other species, including humans.\nMain collaborations: Dries Bonte (Ghent University), Solène Croci (CNRS, Rennes)\nParticipation in collaboration networks: Global Urban Evolution (GLUE), SPIN-CITY."
   }
 ]

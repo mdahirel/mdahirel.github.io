@@ -1,0 +1,74 @@
+---
+title: "Publications"
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+(You can also download the full CV as a pdf from [here](https://github.com/mdahirel/cv/raw/main/cv.pdf){target="_blank"})
+
+
+```{r}
+library(googlesheets4)
+library(tidyverse)
+gs4_deauth() #because sheets publicly available anyway
+```
+
+
+```{r import_info}
+positions_sheet_loc <- "https://docs.google.com/spreadsheets/d/1jp1yqvxYUha9-qZaZo9paw5xSWYupKOTFZghIU39RsY"
+articles <- read_sheet(positions_sheet_loc, sheet = "articles")
+
+preprints <- filter(articles,section=="preprint") |> 
+  arrange(-end)
+published <- filter(articles, section=="peer-reviewed") |> 
+  arrange(-end)
+```
+
+
+```{r functions}
+formatted_reflist<-function(df){
+  years<-unique(df$end)
+#  cat(
+#    paste0("- ", " (",df$end,"). ",df$title, "\n    + ", 
+#           df$description_1, "\n    + ", 
+#           df$loc, 
+#           "\n",sep=""
+#           )
+#    )
+#}
+#
+for (i in 1:length(years)){assign(paste0("df",years[i]),filter(df,end==years[i]))}
+for (i in 1:length(years)){
+ df_now <- get(paste0("df",years[i]))
+  cat(
+    if(unique(df$section)=="peer-reviewed"){
+      paste0("## ", unique(df_now$end),sep="") # we only use the year breaks for peer-reviewed, not preprints
+      }, 
+    paste0("- ",df_now$title, "<br/>",  
+           df_now$loc, 
+           "\n    + <font size=-0.5>",df_now$description_1, "</font>\n",
+           sep=""
+           ),
+    fill=TRUE
+    )
+}
+}
+
+
+
+```
+
+# Preprints (`r length(preprints$title)`)
+
+```{r results='asis'}
+formatted_reflist(preprints)
+```
+
+# Peer-reviewed publications (`r length(published$title)`)
+
+```{r results='asis'}
+formatted_reflist(published)
+```

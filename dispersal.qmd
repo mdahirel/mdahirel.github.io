@@ -1,0 +1,12 @@
+---
+title: "Dispersal ecology and evolution"
+editor: visual
+---
+
+Dispersal movements are one of the main mechanisms shaping evolution and genetic diversity, and one of the fundamental drivers of population dynamics. Knowledge of dispersal is crucial to understand whether organisms can cope with current environmental changes, which are often spatially structured (such as habitat fragmentation).
+
+I develop lab and field experiments to understand how the interaction of various selective pressures shape the evolution of dispersal and its association with other traits in syndromes. I am also interested in unraveling the ecological and evolutionary consequences of such syndromes, especially in the context of human-induced rapid environmental changes and range expansions.
+
+**Main collaborations:** Armelle Ansart, Julien Pétillon (University of Rennes 1), Dries Bonte (Ghent University), Elodie Vercken (INRAE, Sophia-Antipolis)
+
+**Participation in collaboration networks:** [dispNet](https://dispnet.github.io/)

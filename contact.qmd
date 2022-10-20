@@ -1,0 +1,26 @@
+---
+title: "Contact"
+editor: visual
+---
+
+maxime.dahirel \[at\] ugent.be
+
+Dr Maxime Dahirel\
+Department of Biology\
+Ghent University\
+K.L. Ledeganckstraat 35\
+B-9000 Gent\
+Belgium
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(leaflet)
+lat_terec <- 51.0364
+lon_terec <- 3.7241
+leaflet() |> 
+  setView(lng=lon_terec, lat=lat_terec, zoom = 9) |> 
+  addTiles() |>   # Add default OpenStreetMap map tiles
+  addMarkers(lng=lon_terec, lat=lat_terec)
+```

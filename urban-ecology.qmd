@@ -1,0 +1,14 @@
+---
+title: "Urban ecology and evolution"
+editor: visual
+---
+
+Over half of humanity now lives in cities, and this proportion, along with the surface of urban lands, is expected to rise continuously during this century.
+
+Many species are unable to adapt to the myriad environmental changes associated with city life: urbanization has caused numerous population declines and local species extinctions, and is a major source of biological homogenization worldwide. This is likely in turn to influence human well-being and health, through the loss or degradation of key ecosystem services in cities. Yet, some organisms persist or even thrive in cities, directly or following evolutionary changes.
+
+Using cities in France and Belgium, I investigate how various behaviours and life-history traits respond to urbanization at various scales, and try to find out whether this affects population/ species persistence in cities and interactions with other species, including humans.
+
+**Main collaborations:** Dries Bonte (Ghent University), Solène Croci (CNRS, Rennes)
+
+**Participation in collaboration networks:** [Global Urban Evolution (GLUE)](http://globalurbanevolution.com/), [SPIN-CITY](https://www.spiderspotter.com/en/info/for-scientists).

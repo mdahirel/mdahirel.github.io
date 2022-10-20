@@ -1,0 +1,24 @@
+---
+title: "Maxime Dahirel (he/him)"
+about:
+ template: trestles
+ image: images/avatar.png
+ image-shape: round
+ links:
+   - icon: twitter
+     href: https://twitter.com/mdahirel
+   - icon: github
+     href: https://github.com/mdahirel
+   - text: ORCID
+     href: https://orcid.org/0000-0001-8077-7765
+---
+
+# Hi!
+
+I am a behavioural and evolutionary ecologist interested in the causes and consequences of dispersal and in adaptation to city life.
+
+I am currently a Marie Skłodowska-Curie Fellow in the Terrestrial Ecology Unit \@ Ghent University, in Belgium (project [HELICITY](https://cordis.europa.eu/project/id/101022802)).
+
+::: column-page
+![](images/garden_snails_on_brick.jpg)
+:::

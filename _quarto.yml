@@ -24,7 +24,7 @@ website:
          - spiders.qmd
       - href: publications.qmd
         text: Publications
-      - href: c_v.qmd
+      - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact

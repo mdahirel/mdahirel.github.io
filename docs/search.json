@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -32,7 +25,7 @@
     "href": "index.html",
     "title": "Maxime Dahirel",
     "section": "",
-    "text": "Hi!\nI am an evolutionary ecologist interested in:\n\nurban ecology and evolution: How organisms manage to persist in cities (or not)? How much do they have to change to do so? Can we predict it? What is the role of urban history and planning?\n\nanimal dispersal, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why?\n\nI use lab experiments, field surveys, data science tools and the occasional simulation to answer these questions.\nI generally study land snails 🐌, but I’ve been involved in projects studying spiders 🕸️🕷️, mites, insects 🐞, plants 🍀… and snail parasites.\nI am currently a Marie Skłodowska-Curie Fellow in the Terrestrial Ecology Unit @ Ghent University, in Belgium (project HELICITY)."
+    "text": "Hi!\nI am an evolutionary ecologist interested in:\n\nurban ecology and evolution: How organisms manage to persist in cities (or not)? How much do they have to change to do so? Can we predict it? What is the role of urban history and planning?\n\nanimal dispersal, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why?\n\nI use lab experiments, field surveys, data science tools and the occasional simulation to answer these questions.\nI generally study land snails 🐌, but I’ve been involved in projects studying spiders 🕸️🕷️, mites, insects 🪰, plants 🍀… and snail parasites.\nI am currently a Marie Skłodowska-Curie Fellow in the Terrestrial Ecology Unit @ Ghent University, in Belgium (project HELICITY)."
   },
   {
     "objectID": "people.html",

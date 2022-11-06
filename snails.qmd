@@ -7,4 +7,4 @@ Land molluscs are my main group of expertise. I use them to understand the impac
 
 I work mostly with the common land snails [*Cornu aspersum*](https://www.inaturalist.org/taxa/480298) and [*Cepaea nemoralis*](https://www.inaturalist.org/taxa/48586), but have handled 20 other species of land molluscs in the lab.
 
-![*Cornu aspersum*, by Franz Anthony for the Circles of Life project (used with permission)](images/cornu_circles_of_life.jpg){fig-alt="A drawing of a garden snail." height="500"}
+![*Cornu aspersum* on *Cornu aspersum* (framed image by Franz Anthony for the Circles of Life project, used with permission)](images/cornu_with_portrait.jpg){fig-alt="A garden snail crawling over a framed drawing of a garden snail." height="500"}

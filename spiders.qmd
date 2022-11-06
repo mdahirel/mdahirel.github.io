@@ -8,3 +8,5 @@ Besides snails, I occasionally study spiders:
 -   orb weavers (primarily Araneidae), as the morphology of their webs can contain information about their foraging strategies, especially in response to environmental changes.
 
 -   money spiders (Linyphiidae, especially *Erigone* sp.) as models to study the evolution of dispersal and integrated phenotypes.
+
+![](images/erigone.jpg){fig-alt="A small dark spider on its web, hanging from below. The background is orange-ish because of the lighting." height="500"}

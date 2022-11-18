@@ -8,6 +8,9 @@ about:
  links:
    - text: "{{< fa brands twitter size=2x >}} Twitter"
      href: https://twitter.com/mdahirel
+   - text: "{{< fa brands mastodon size=2x >}} Mastodon"
+     href: https://mastodon.social/@mdahirel
+     rel: me
    - text: "{{< fa brands github size=2x >}} Github"
      href: https://github.com/mdahirel
    - text: "{{< ai inaturalist size=2x >}} iNaturalist"

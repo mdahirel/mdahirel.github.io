@@ -23,10 +23,10 @@ about:
 
 I am an evolutionary ecologist interested in:
 
--   [**urban ecology and evolution**](urban-ecology.qmd): How organisms manage to persist in cities (or not)? How much do they have to change to do so? Can we predict it? What is the role of urban history and planning?\
--   [**animal dispersal**](dispersal.qmd), i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why?
+-   [**urban ecology and evolution**](urban-ecology.qmd): How do organisms manage to persist in cities (or not)? How much do they have to change to do so? Can we predict it? What is the role of urban history and planning?\
+-   [**animal dispersal**](dispersal.qmd), i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why? What are the consequences?
 
-I use lab experiments, field surveys, data science tools and the occasional simulation to answer these questions.
+I use lab experiments, field studies, data science tools and the occasional simulation to answer these questions.
 
 I generally study [land snails](snails.qmd) 🐌, but I've been involved in projects studying [spiders](spiders.qmd) 🕸️🕷️, mites, insects 🪰, plants 🍀... and snail parasites.
 

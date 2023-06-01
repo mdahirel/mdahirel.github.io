@@ -1,6 +1,9 @@
 ---
 title: "Maxime Dahirel"
 subtitle: "(he/they)"
+format:
+  html:
+    toc: false
 about:
  template: trestles
  image: images/avatar.png

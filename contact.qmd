@@ -1,6 +1,10 @@
 ---
 title: "Contact"
 editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
 maxime.dahirel \[at\] yahoo.fr
@@ -14,9 +18,6 @@ B-9000 Gent\
 Belgium
 
 ```{r}
-#| echo: false
-#| warning: false
-#| message: false
 library(leaflet)
 lat_terec <- 51.0364
 lon_terec <- 3.7241

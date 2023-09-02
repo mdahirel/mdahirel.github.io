@@ -20,24 +20,16 @@ positions_sheet_loc <- "https://docs.google.com/spreadsheets/d/1jp1yqvxYUha9-qZa
 articles <- read_sheet(positions_sheet_loc, sheet = "articles")
 
 preprints <- filter(articles,section=="preprint") |> 
-  arrange(-end)
+  arrange(-year)
 published <- filter(articles, section=="peer-reviewed") |> 
-  arrange(-end)
+  arrange(-year)
 ```
 
 ```{r functions}
 formatted_reflist<-function(df){
-  years<-unique(df$end)
-#  cat(
-#    paste0("- ", " (",df$end,"). ",df$title, "\n    + ", 
-#           df$description_1, "\n    + ", 
-#           df$loc, 
-#           "\n",sep=""
-#           )
-#    )
-#}
-#
-for (i in 1:length(years)){assign(paste0("df",years[i]),filter(df,end==years[i]))}
+  years<-unique(df$year)
+
+for (i in 1:length(years)){assign(paste0("df",years[i]),filter(df,year==years[i]))}
 for (i in 1:length(years)){
  df_now <- get(paste0("df",years[i]))
   cat(
@@ -45,8 +37,8 @@ for (i in 1:length(years)){
       paste0("### ", unique(df_now$end),sep="") # we only use the year breaks for peer-reviewed, not preprints
       }, 
     paste0("- ",df_now$title, "<br/>",  
-           df_now$loc, 
-           "\n    + <font size=-0.5>",df_now$description_1, "</font>\n",
+           df_now$where, 
+           "\n    + <font size=-0.5>",df_now$authors, "</font>\n",
            sep=""
            ),
     fill=TRUE

@@ -37,7 +37,7 @@ for (i in 1:length(years)){
       paste0("### ", unique(df_now$year),sep="") # we only use the year breaks for peer-reviewed, not preprints
       }, 
     paste0("- ",df_now$title, "<br/>",  
-           df_now$where, 
+           df_now$publication, 
            "\n    + <font size=-0.5>",df_now$authors, "</font>\n",
            sep=""
            ),

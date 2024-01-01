@@ -1,12 +1,12 @@
 ---
 title: "Maxime Dahirel"
-subtitle: "(he/they)"
+subtitle: "(they/he)"
 format:
   html:
     toc: false
 about:
  template: trestles
- image: images/avatar.png
+ image: images/avatar.jpg
  image-shape: round
  links:
    - text: "{{< fa brands mastodon size=2x >}} Mastodon"

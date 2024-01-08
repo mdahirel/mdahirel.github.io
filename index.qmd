@@ -24,16 +24,16 @@ about:
 
 # Hi!
 
-I am an evolutionary ecologist, with expertise in:
+I am a quantitative ecologist, with expertise in:
 
 -   [**urban biodiversity, ecology and evolution**](urban-ecology.qmd)\
--   **behavioural ecology**, especially animal movement and [dispersal](dispersal.qmd)
+-   [**dispersal ecology**](dispersal.qmd), and behavioural ecology more generally
 
-I work using a mix of (in no particular order) lab experiments, field surveys, data science tools and the occasional simulation.
+I work using a mix of data science tools, lab experiments, field surveys and the occasional simulation.
 
-I generally study [land snails](snails.qmd) 🐌, but I've been involved in projects studying [spiders](spiders.qmd) 🕸️🕷️, mites, insects 🪰, plants 🍀... and snail parasites.
+Most of my work is on [land snails](snails.qmd) 🐌, but I am or have been involved in projects studying plants 🍀, [spiders](spiders.qmd) 🕸️🕷️, mites, insects  🪰... and snail parasites.
 
-Until recently I was a Marie Skłodowska-Curie Fellow in the [Terrestrial Ecology Unit](https://www.ecology.ugent.be/terec/) \@ Ghent University, in Belgium (project [HELICITY](https://cordis.europa.eu/project/id/101022802)), and I am currently looking for my next job.
+I am currently working on dune ecology-related questions ([DuneFront project](https://cordis.europa.eu/project/id/101135410)), in the [Terrestrial Ecology Unit](https://www.ecology.ugent.be/terec/) \@ Ghent University, in Belgium.
 
 ::: column-page
 ![](images/garden_snails_on_brick.jpg)

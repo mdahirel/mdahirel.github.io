@@ -7,9 +7,8 @@ execute:
   message: false
 ---
 
-maxime.dahirel \[at\] yahoo.fr
+maxime.dahirel \[at\] ugent.be
 
-**Most recent institutional address:**    
 Dr Maxime Dahirel\
 Department of Biology\
 Ghent University\

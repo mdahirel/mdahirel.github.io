@@ -24,7 +24,7 @@ about:
 
 # Hi!
 
-THIS IS A TEST I am a quantitative ecologist, with expertise in:
+I am a quantitative ecologist, with expertise in:
 
 -   [**urban biodiversity, ecology and evolution**](urban-ecology.qmd)\
 -   [**dispersal ecology**](dispersal.qmd), and behavioural ecology more generally

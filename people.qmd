@@ -9,7 +9,7 @@ editor: visual
     PhD student · Université Côte d'Azur, France · co-supervised by Elodie Vercken\
     <font size=-0.5>
     -   Key themes: evolution during range expansions; individual-based modelling; data synthesis\
-    -   Study species: *Trichogramma* wasps (Hymenoptera, Trichogrammatidae), and many virtual species </font
+    -   Study species: *Trichogramma* wasps (Hymenoptera, Trichogrammatidae), and many virtual species </font>
     -   Chloé successfully defended her thesis in December 2023!
 -   **Hannah Reyné**\
     Master student · Ghent University, Belgium · co-supervised by Dries Bonte\

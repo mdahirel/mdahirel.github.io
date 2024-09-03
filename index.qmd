@@ -9,11 +9,11 @@ about:
  image: images/avatar.jpg
  image-shape: round
  links:
+   - text: "{{< fa brands bluesky size=2x >}} Bluesky"
+     href: https://bsky.app/profile/mdahirel.bsky.social
    - text: "{{< fa brands mastodon size=2x >}} Mastodon"
      href: https://mastodon.social/@mdahirel
      rel: me
-   - text: "{{< fa cloud-sun size=2x >}} Bluesky"
-     href: https://bsky.app/profile/mdahirel.bsky.social
    - text: "{{< fa brands github size=2x >}} Github"
      href: https://github.com/mdahirel
    - text: "{{< ai inaturalist size=2x >}} iNaturalist"
@@ -31,9 +31,9 @@ I am a quantitative ecologist, with expertise in:
 
 I work using a mix of data science tools, lab experiments, field surveys and the occasional simulation.
 
-Most of my work is on [land snails](snails.qmd) 🐌, but I am or have been involved in projects studying plants 🍀, [spiders](spiders.qmd) 🕸️🕷️, mites, insects  🪰... and snail parasites.
+Most of my work is on [land snails](snails.qmd) 🐌, but I am or have been involved in projects studying plants 🍀, [spiders](spiders.qmd) 🕸️🕷️, mites, insects 🪰... and snail parasites.
 
-I am currently working on dune ecology-related questions ([DuneFront project](https://cordis.europa.eu/project/id/101135410)), in the [Terrestrial Ecology Unit](https://www.ecology.ugent.be/terec/) \@ Ghent University, in Belgium.
+I am currently working on dune ecology-related questions ([DuneFront project](https://dunefront.eu/)), in the [Terrestrial Ecology Unit](https://www.ecology.ugent.be/terec/) \@ Ghent University, in Belgium.
 
 ::: column-page
 ![](images/garden_snails_on_brick.jpg)

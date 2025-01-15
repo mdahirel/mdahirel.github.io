@@ -12,7 +12,7 @@ execute:
 ```{r}
 library(googlesheets4)
 library(tidyverse)
-gs4_deauth() #because sheets publicly available anyway
+gs4_deauth() #because sheet publicly available anyway (for now)
 ```
 
 ```{r import_info}
@@ -22,6 +22,8 @@ articles <- read_sheet(positions_sheet_loc, sheet = "articles")
 preprints <- filter(articles,section=="preprint") |> 
   arrange(-year)
 published <- filter(articles, section=="peer-reviewed") |> 
+  arrange(-year)
+reports <- filter(articles, section=="report") |> 
   arrange(-year)
 ```
 
@@ -33,7 +35,7 @@ for (i in 1:length(years)){assign(paste0("df",years[i]),filter(df,year==years[i]
 for (i in 1:length(years)){
  df_now <- get(paste0("df",years[i]))
   cat(
-    if(unique(df$section)=="peer-reviewed"){
+    if(unique(df$section)!="preprint"){
       paste0("### ", unique(df_now$year),sep="") # we only use the year breaks for peer-reviewed, not preprints
       }, 
     paste0("- ",df_now$title, "<br/>",  
@@ -60,4 +62,10 @@ formatted_reflist(preprints)
 
 ```{r results='asis'}
 formatted_reflist(published)
+```
+
+## Other publicly available reports (`r length(reports$title)`)
+
+```{r results='asis'}
+formatted_reflist(reports)
 ```

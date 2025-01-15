@@ -36,5 +36,5 @@ Most of my work is on [land snails](snails.qmd) 🐌, but I am or have been invo
 I am currently working on dune ecology-related questions ([DuneFront project](https://dunefront.eu/)), in the [Terrestrial Ecology Unit](https://www.ecology.ugent.be/terec/) \@ Ghent University, in Belgium.
 
 ::: column-page
-![](images/garden_snails_on_brick.jpg)
+![](images/garden_snails_on_brick.jpg){fig-alt="A bunch of brown garden snails, with tiny stickers glued to their shells to individually identify them, on red bricks."}
 :::

@@ -3,16 +3,10 @@ title: "People"
 editor: visual
 ---
 
-## Most recent students (2023)
+## 2024-2025 students
 
--   [**Chloé Guicharnaud**](https://scholar.google.com/citations?user=O9F6iy4AAAAJ)\
-    PhD student · Université Côte d'Azur, France · co-supervised by Elodie Vercken\
+-   **Joannes Steenackers**& **Lukas Van den Troost**\
+    Bachelor students · Ghent University, Belgium\
     <font size=-0.5>
-    -   Key themes: evolution during range expansions; individual-based modelling; data synthesis\
-    -   Study species: *Trichogramma* wasps (Hymenoptera, Trichogrammatidae), and many virtual species\  
-    -   Chloé successfully defended her thesis in December 2023! </font>
--   **Hannah Reyné**\
-    Master student · Ghent University, Belgium · co-supervised by Dries Bonte\
-    <font size=-0.5>
-    -   Key themes: urban ecology; snail-parasite interactions\
-    -   Study species: *Cornu aspersum*, *Cepaea nemoralis* (Gastropoda, Helicidae) and their animal parasites </font>
+    -   Key themes: urban ecology; animal colour; morphometrics\
+    -   Study species: *Cepaea nemoralis* (Gastropoda, Helicidae)</font>

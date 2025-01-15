@@ -5,7 +5,7 @@ editor: visual
 
 ## 2024-2025 students
 
--   **Joannes Steenackers**& **Lukas Van den Troost**\
+-   **Joannes Steenackers** and **Lukas Van den Troost**\
     Bachelor students · Ghent University, Belgium\
     <font size=-0.5>
     -   Key themes: urban ecology; animal colour; morphometrics\

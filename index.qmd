@@ -7,6 +7,7 @@ format:
 about:
  template: trestles
  image: images/avatar.jpg
+ image-alt: Selfie of a person with glasses and shoulder-length wavy black hair, wearing a white scarf
  image-shape: round
  links:
    - text: "{{< fa brands bluesky size=2x >}} Bluesky"

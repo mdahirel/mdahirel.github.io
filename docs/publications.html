@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6f22864b7e6370cc84f2d6066d4abf84.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -170,10 +170,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#section-10" id="toc-section-10" class="nav-link" data-scroll-target="#section-10">2015</a></li>
   <li><a href="#section-11" id="toc-section-11" class="nav-link" data-scroll-target="#section-11">2014</a></li>
   </ul></li>
-  <li><a href="#other-publicly-available-reports-1" id="toc-other-publicly-available-reports-1" class="nav-link" data-scroll-target="#other-publicly-available-reports-1">Other publicly available reports (1)</a>
-  <ul class="collapse">
-  <li><a href="#section-12" id="toc-section-12" class="nav-link" data-scroll-target="#section-12">2024</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -218,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2025</h3>
 <ul>
-<li><a href="https://doi.org/10.1101/2024.06.24.600350">Drivers of plant-associated invertebrate community structure in West-European coastal dunes</a><br><em>npj Biodiversity</em>, in press
+<li><a href="https://doi.org/10.1038/s44185-025-00084-8">Drivers of plant-associated invertebrate community structure in West-European coastal dunes</a><br><em>npj Biodiversity</em>, 4: 12
 <ul>
 <li><font size="-0.5">Van De Walle R., <strong>Dahirel M.</strong>, Langeraert W., Benoit D., Vantieghem P., Vandegehuchte M.L., Massol F., Bonte D.</font></li>
 </ul></li>
@@ -402,18 +398,6 @@ ul.task-list li input[type="checkbox"] {
 <li><font size="-0.5"><strong>Dahirel M.</strong>, Ansart A, Madec L.</font></li>
 </ul></li>
 </ul>
-</section>
-</section>
-<section id="other-publicly-available-reports-1" class="level2">
-<h2 class="anchored" data-anchor-id="other-publicly-available-reports-1">Other publicly available reports (1)</h2>
-<section id="section-12" class="level3">
-<h3 class="anchored" data-anchor-id="section-12">2024</h3>
-<ul>
-<li><a href="https://doi.org/10.5281/zenodo.14234693">Physical boundary conditions over European coasts</a><br><em>Public deliverable for the DuneFront project, work package 4</em>
-<ul>
-<li><font size="-0.5">Castelle B., <strong>Dahirel M.</strong></font></li>
-</ul></li>
-</ul>
 
 
 </section>
@@ -502,6 +486,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -612,6 +598,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

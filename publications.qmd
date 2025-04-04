@@ -23,8 +23,6 @@ preprints <- filter(articles,section=="preprint") |>
   arrange(-year)
 published <- filter(articles, section=="peer-reviewed") |> 
   arrange(-year)
-reports <- filter(articles, section=="report") |> 
-  arrange(-year)
 ```
 
 ```{r functions}
@@ -62,10 +60,4 @@ formatted_reflist(preprints)
 
 ```{r results='asis'}
 formatted_reflist(published)
-```
-
-## Other publicly available reports (`r length(reports$title)`)
-
-```{r results='asis'}
-formatted_reflist(reports)
 ```

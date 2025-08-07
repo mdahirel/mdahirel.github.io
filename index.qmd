@@ -18,7 +18,7 @@ about:
    - text: "{{< fa brands github size=2x >}} Github"
      href: https://github.com/mdahirel
    - text: "{{< ai inaturalist size=2x >}} iNaturalist"
-     href: https://www.inaturalist.org/people/msjdahirel
+     href: https://www.inaturalist.org/people/mdahirel
    - text: "{{< ai orcid size=2x >}} ORCID"
      href: https://orcid.org/0000-0001-8077-7765
 ---
